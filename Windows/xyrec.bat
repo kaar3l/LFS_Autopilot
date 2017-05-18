@@ -1,0 +1,1 @@
+c:\Python27\python.exe xyrec.py>xy.dat

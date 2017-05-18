@@ -1,0 +1,6 @@
+data/.hgignore.i
+data/pyinsim/__init__.py.i
+data/pyinsim/core.py.i
+data/pyinsim/helper.py.i
+data/pyinsim/insim.py.i
+data/pyinsim/lfstr.py.i

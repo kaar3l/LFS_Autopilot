@@ -1,0 +1,1 @@
+sudo PYTHONPATH=$PYTHONPATH:`pwd`: python fulldump.py

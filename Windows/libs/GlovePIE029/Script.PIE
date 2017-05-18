@@ -1,0 +1,13 @@
+pie.FrameRate=10
+//5001 hor ja vert
+//Osc1.ip="127.0.0.1"
+//Osc1.port=5001
+Osc1.ListenPort=55000
+Osc1.Listening=1
+//joystickki
+PPJoy1.Analog0 = Osc1.hor
+PPJoy1.Analog1 = Osc1.vert
+//debug=Osc1.vert/200
+debug=Osc1.hor
+//Osc1.hor=199
+

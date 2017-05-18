@@ -1,0 +1,72 @@
+(0, 24-jaan-2013 01:37:15) Initializing PieLog
+(0, 24-jaan-2013 01:37:15) Initializing filemode variable
+(0, 24-jaan-2013 01:37:15) Initializing PiePie
+(0, 24-jaan-2013 01:37:15) Initializing PieVariables
+(0, 24-jaan-2013 01:37:15) Initializing PieExpression
+(0, 24-jaan-2013 01:37:15) Initializing PieSpeech
+(0, 24-jaan-2013 01:37:15) Initializing PieCursorUnit
+(0, 24-jaan-2013 01:37:15) Initializing PieMouse
+(0, 24-jaan-2013 01:37:15) Initializing PieKeyboard
+(0, 24-jaan-2013 01:37:15) Initializing PieInput
+(0, 24-jaan-2013 01:37:15) Initializing PieOSC
+(0, 24-jaan-2013 01:37:15) Initializing PieFunction
+(0, 24-jaan-2013 01:37:15) Initializing PieStatement
+(0, 24-jaan-2013 01:37:15) Initializing PieP5
+(0, 24-jaan-2013 01:37:15) Initializing PiePPJoy
+(0, 24-jaan-2013 01:37:15) Initializing PieMidi
+(0, 24-jaan-2013 01:37:16) Initializing PieRemote
+(0, 24-jaan-2013 01:37:16) Initializing Pie Speech Recognition
+(0, 24-jaan-2013 01:37:16) Initializing PieScreen
+(0, 24-jaan-2013 01:37:16) GetMonitorEDID
+(0, 24-jaan-2013 01:37:16) Initializing PieWIndow
+(0, 24-jaan-2013 01:37:16) Initializing PieCursors
+(0, 24-jaan-2013 01:37:16) Initializing PieZ800
+(0, 24-jaan-2013 01:37:16) Initializing PieFiveDT
+(0, 24-jaan-2013 01:37:16) Initializing PieIntersense
+(0, 24-jaan-2013 01:37:16) Initializing PieBird
+(0, 24-jaan-2013 01:37:16) Initializing PieFastrak
+(0, 24-jaan-2013 01:37:16) Initializing PiePPT
+(0, 24-jaan-2013 01:37:16) Initializing PieTrackIR
+(0, 24-jaan-2013 01:37:16) Initializing PiePinch
+(0, 24-jaan-2013 01:37:16) Initializing PieJoystick
+(0, 24-jaan-2013 01:37:16) Starting main
+(0, 24-jaan-2013 01:37:16) Application object initialized
+(0, 24-jaan-2013 01:37:16) Creating main window
+(0, 24-jaan-2013 01:37:16) EditorForm.Create
+(0, 24-jaan-2013 01:37:16) Checking command line parameters:
+(0, 24-jaan-2013 01:37:16) Assigning exception handler
+(0, 24-jaan-2013 01:37:16) Creating debug remote control window
+(0, 24-jaan-2013 01:37:16) Running application
+(0, 24-jaan-2013 01:37:26) File>Open
+(0, 24-jaan-2013 01:37:40) ClearMidiGui
+(0, 24-jaan-2013 01:37:55) FormCloseQuery
+(0, 24-jaan-2013 01:37:55) Compile>Stop
+(0, 24-jaan-2013 01:37:55) Application finished
+(0, 24-jaan-2013 01:37:55) Destroying EditorForm
+(0, 24-jaan-2013 01:37:55) Finalizing PieJoystick
+(0, 24-jaan-2013 01:37:55) Finalizing PiePinch
+(0, 24-jaan-2013 01:37:55) Finalizing PieTrackIR
+(0, 24-jaan-2013 01:37:55) Finalizing PiePPT
+(0, 24-jaan-2013 01:37:55) Finalizing PieFastrak
+(0, 24-jaan-2013 01:37:55) Finalizing PieBird
+(0, 24-jaan-2013 01:37:55) Finalizing PieIntersense
+(0, 24-jaan-2013 01:37:55) Finalizing PieFiveDT
+(0, 24-jaan-2013 01:37:55) Finalizing PieZ800
+(0, 24-jaan-2013 01:37:55) Finalizing PieCursors
+(0, 24-jaan-2013 01:37:55) Finalizing PieWindow
+(0, 24-jaan-2013 01:37:55) Finalizing PieScreen
+(0, 24-jaan-2013 01:37:55) Finalizing Pie Speech Recognition
+(0, 24-jaan-2013 01:37:55) Finalizing PieRemote
+(0, 24-jaan-2013 01:37:55) Finalizing PieMidi
+(0, 24-jaan-2013 01:37:55) Finalizing PiePPJoy
+(0, 24-jaan-2013 01:37:55) Finalizing PieP5
+(0, 24-jaan-2013 01:37:55) Finalizing PieStatement
+(0, 24-jaan-2013 01:37:55) Finalizing PieFunction
+(0, 24-jaan-2013 01:37:55) Finalizing PieOSC
+(0, 24-jaan-2013 01:37:55) Finalizing PieKeyboard
+(0, 24-jaan-2013 01:37:55) Finalizing PieMouse
+(0, 24-jaan-2013 01:37:55) Finalizing PieSpeech
+(0, 24-jaan-2013 01:37:55) Finalizing PieVariables
+(0, 24-jaan-2013 01:37:55) Finalizing PiePie
+(0, 24-jaan-2013 01:37:55) Finalizing PieLog
+(0, 24-jaan-2013 01:37:55) Closing log file

@@ -1,0 +1,1 @@
+sudo PYTHONPATH=$PYTHONPATH:`pwd`:/usr/lib/python2.6/dist-packages:/usr/local/lib/python2.6/dist-packages: ./vjoy example
